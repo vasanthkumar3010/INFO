@@ -61,6 +61,14 @@ const vasanth = {
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
+## 🚀 My Projects
+
+<div align="center">
+
+[![Hand Gesture Project](https://github-readme-stats.vercel.app/api/pin/?username=vasanthkumar3010&repo=Hand-gesture-project&theme=tokyonight&hide_border=true)](https://github.com/vasanthkumar3010/Hand-gesture-project)
+[![Voice To Text](https://github-readme-stats.vercel.app/api/pin/?username=vasanthkumar3010&repo=Voice-To-Text&theme=tokyonight&hide_border=true)](https://github.com/vasanthkumar3010/Voice-To-Text)
+
+</div>
 
 ## 🌐 Connect With Me
 
