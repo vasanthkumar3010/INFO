@@ -18,25 +18,20 @@
 
 ## 🙋‍♂️ About Me
 
-```javascript
-const vasanth = {
-  name: "Yanamadala Vasanth Kumar",
-  role: "Software Developer",
-  location: "Andhra Pradesh, India 🇮🇳",
-  education: "B.Tech – 2026 Batch",
-  passion: ["Clean Code", "Web Development", "Problem Solving"],
-  currentFocus: "Building modern web applications",
-  motto: "Code. Learn. Grow. Repeat. 🚀"
-};
-```
+<div align="center">
 
-- 🔭 I'm currently working on **building my skills in Full Stack Development**
-- 🌱 I'm learning **React.js, Node.js & Database Management**
-- 💡 I love turning ideas into real-world products with great UI/UX
-- 🎯 Goal: Contribute to impactful projects and grow as a developer
-- ⚡ Fun fact: I debug with **console.log** and I'm not ashamed of it 😄
+| 👤 Name | Yanamadala Vasanth Kumar |
+|---|---|
+| 💼 Role | Software Developer |
+| 🎓 Education | B.Tech – 2026 Batch |
+| 📊 CGPA | 9.05 / 10 |
+| 📍 Location | Andhra Pradesh, India 🇮🇳 |
+| 🔭 Currently | Building Full Stack Web Apps |
+| 🌱 Learning | React.js, Node.js & DBMS |
+| 🎯 Goal | Contribute to impactful projects |
+| ⚡ Fun Fact | I debug with console.log 😄 |
 
----
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -65,8 +60,8 @@ const vasanth = {
 
 <div align="center">
 
-[![Hand Gesture Project](https://github-readme-stats.vercel.app/api/pin/?username=vasanthkumar3010&repo=Hand-gesture-project&theme=tokyonight&hide_border=true)](https://github.com/vasanthkumar3010/Hand-gesture-project)
-[![Voice To Text](https://github-readme-stats.vercel.app/api/pin/?username=vasanthkumar3010&repo=Voice-To-Text&theme=tokyonight&hide_border=true)](https://github.com/vasanthkumar3010/Voice-To-Text)
+[![Hand Gesture Project](https://img.shields.io/badge/Hand%20Gesture%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasanthkumar3010/Hand-gesture-project)
+[![Voice To Text](https://img.shields.io/badge/Voice%20To%20Text-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasanthkumar3010/Voice-To-Text)
 
 </div>
 
