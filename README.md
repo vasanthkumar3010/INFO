@@ -85,14 +85,6 @@ const vasanth = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasanthkumar3010&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
