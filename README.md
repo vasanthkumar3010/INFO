@@ -74,13 +74,8 @@ const vasanth = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vasanthkumar3010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=vasanthkumar3010&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=vasanthkumar3010&theme=tokyonight&hide_border=true" width="60%" />
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthkumar3010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </div>
 
 ---
